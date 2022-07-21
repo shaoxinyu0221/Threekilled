@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThreekilledApplication {
+public class ThreeKilledApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ThreekilledApplication.class, args);
+        SpringApplication.run(ThreeKilledApplication.class, args);
     }
 
 }
