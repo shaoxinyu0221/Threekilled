@@ -1,2 +1,6 @@
-package com.threekilled.entity;public class Player {
+package com.threekilled.entity;
+
+
+public class Player {
+    
 }
